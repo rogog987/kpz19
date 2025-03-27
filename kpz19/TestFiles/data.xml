@@ -1,0 +1,17 @@
+﻿<Test_group>
+	<Mesagge>
+		<Id>Іван</Id>
+		<Name>string1</Name>
+		<lab>lab19</lab>
+	</Mesagge>
+	<Mesagge>
+		<Id>Марія</Id>
+		<Name>string2</Name>
+		<lab>lab19</lab>
+	</Mesagge>
+	<Mesagge>
+		<Id>Олег</Id>
+		<Name>string3</Name>
+		<lab>lab19</lab>
+	</Mesagge>
+</Test_group>
